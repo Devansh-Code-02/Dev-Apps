@@ -1,0 +1,6 @@
+{
+  "name": "Bluetooth P2P Chat",
+  "description": "Secure offline P2P Bluetooth and Wi-Fi Direct messaging with end-to-end encryption, automatic discovery, group rooms, file transfers, message history backups, and customizable Neomorphism & Glassmorphism visual themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
